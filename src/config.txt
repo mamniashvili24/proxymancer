@@ -1,4 +1,3 @@
 port=8080
 index=index.html
 root=/Users/nikamamniashvili/Documents/GitHub/Personal/mini-typeracer
-avalable_files=html:text/html,
